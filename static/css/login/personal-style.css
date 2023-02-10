@@ -1,0 +1,56 @@
+.main-menu{
+    width: 80%;
+}
+.main-menu form{
+    text-align: center;
+}
+.main-menu form button {
+    color: black;
+    background-color: transparent;
+    padding: 0;
+}
+.main-menu form input {
+    height: 100%;
+    width: 60%;
+}
+.username{
+    display: inline;
+    cursor: pointer;
+}
+
+.timeline-info > ul > li{
+    margin-left: 20%;
+}
+
+.mh-form button{
+    line-height: 20px !important;
+    background: transparent;
+}
+
+.res-menu ul li span{
+    position: unset;
+    margin-right: 10px;
+}
+.res-menu i{
+    margin-right: 10px;
+}
+.res-menu ul li span::after{
+    left: 26px;
+    top: 18px;
+}
+
+.res-menu div span{
+    position: relative;
+    top: 19px;
+    left: -17px;
+}
+.res-menu div span::after{
+    left: 6px;
+    top: 6px;
+}
+.res-menu .userInfo{
+    padding: 10px 10px 10px 20px;
+}
+.res-menu .userInfo img{
+    border-radius: 100%;
+}

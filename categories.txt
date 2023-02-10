@@ -1,0 +1,35 @@
+dress
+    mens dress
+    womens dress
+    childs dress
+
+shirts
+jeans
+swimwear 
+sleepwear
+sportswear
+jumpsuits
+blazers
+jackets
+shoes
+accessories
+bags
+
+offers
+
+filter
+    price
+    color
+        All Color
+        Black
+        White
+        Red
+        Blue
+        Green
+    size
+        All Size
+        XS
+        S
+        M
+        L
+        XL

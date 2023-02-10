@@ -1,0 +1,12 @@
+Authentication 
+
+
+shoping cart page logic (/cart)
+checkout page logic (/checkout)
+Make everything clickable in home screen(/index)
+make "add to cart" button functional
+apply filter on shop page (/shop)
+make navbar ui icon functional 
+
+
+
